@@ -9,3 +9,13 @@ C:\Users\sabol\source\repos\jelmez\jelmez\obj\Debug\jelmez.csproj.GenerateResour
 C:\Users\sabol\source\repos\jelmez\jelmez\obj\Debug\jelmez.csproj.CoreCompileInputs.cache
 C:\Users\sabol\source\repos\jelmez\jelmez\obj\Debug\jelmez.exe
 C:\Users\sabol\source\repos\jelmez\jelmez\obj\Debug\jelmez.pdb
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\bin\Debug\jelmez.exe.config
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\bin\Debug\jelmez.exe
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\bin\Debug\jelmez.pdb
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\obj\Debug\jelmez.csprojAssemblyReference.cache
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\obj\Debug\jelmez.Form1.resources
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\obj\Debug\jelmez.Properties.Resources.resources
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\obj\Debug\jelmez.csproj.GenerateResource.cache
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\obj\Debug\jelmez.csproj.CoreCompileInputs.cache
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\obj\Debug\jelmez.exe
+C:\Users\13SZFT\Downloads\jelmez-main\jelmez-main\jelmez\obj\Debug\jelmez.pdb
