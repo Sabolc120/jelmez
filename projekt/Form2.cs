@@ -50,6 +50,7 @@ namespace projekt
             dataGridView2.DataSource = DT;
             sql_con.Close();
         }
+
         private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
